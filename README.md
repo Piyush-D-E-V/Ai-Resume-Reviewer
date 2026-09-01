@@ -32,7 +32,7 @@ The application is designed to help job seekers identify areas for improvement i
 
 * React.js
 * JavaScript
-* CSS
+* Tailwind CSS
 
 ### AI
 
