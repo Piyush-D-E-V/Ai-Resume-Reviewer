@@ -38,8 +38,18 @@ The application is designed to help job seekers identify areas for improvement i
 
 * Puter.js
 * Puter.js AI
-
 ---
+
+
+### Home
+
+![Home](https://github.com/Piyush-D-E-V/Ai-Resume-Reviewer/blob/c1af27d859d35d08436d6c8933802b5c81ac7b66/Screenshot/AI-resume%20review.png)
+
+### Resume Analysis/Results
+
+![Analysis](https://github.com/Piyush-D-E-V/Ai-Resume-Reviewer/blob/c1af27d859d35d08436d6c8933802b5c81ac7b66/Screenshot/Screenshot%202026-08-03%20111729.png)
+![Results](https://github.com/Piyush-D-E-V/Ai-Resume-Reviewer/blob/c1af27d859d35d08436d6c8933802b5c81ac7b66/Screenshot/Screenshot%202026-08-03%20111647.png)
+
 
 ## 🏗️ How It Works
 
